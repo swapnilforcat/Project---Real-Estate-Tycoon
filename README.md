@@ -1,5 +1,7 @@
 # Project---Real-Estate-Tycoon
 
+This is an example of Linear Regression
+
 Project Scope:
 Our client is a large real estate investment trust (REIT). They invest in houses, appartments and condos within a small county in New York state. As a part of their business, they try to predict the fair trasaction price of a property before it's sold. They do this to caliberate their internal pricing models and keep a post on the market.
 
